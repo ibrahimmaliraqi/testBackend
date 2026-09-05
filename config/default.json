@@ -1,11 +1,12 @@
 {
     "dbConfig": {
-        "host":"localhost",
-        "user":"root",
-        "password":"",
-        "database":"groceries",
+        "host": "fdb1032.awardspace.net",
+        "user": "4767066_tahfeezquran",
+        "password": "07708335744.iA",
+        "database": "4767066_tahfeezquran",
         "multipleStatements": true,
-        "timezone":"utc+5:30",
-        "charset":"utf8mb4"
+        "timezone": "utc+5:30",
+        "charset": "utf8mb4",
+        "port": "3306"
     }
 }
