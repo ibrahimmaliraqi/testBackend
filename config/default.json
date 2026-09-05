@@ -7,6 +7,6 @@
         "multipleStatements": true,
         "timezone": "utc+5:30",
         "charset": "utf8mb4",
-        "port": "3306"
+        "port": 3306
     }
 }
